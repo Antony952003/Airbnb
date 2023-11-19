@@ -55,4 +55,3 @@ This project is deployed on Vercel. You can access the live version at https://a
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and pull requests.
-# Airbnb
