@@ -51,7 +51,7 @@ To run this project locally, follow the steps below:
 5. Open your browser and visit http://localhost:3000 to view the application.
    
 ## Deployment
-This project is deployed on Vercel. You can access the live version at https://your-vercel-app-url.com.
+This project is deployed on Vercel. You can access the live version at https://airbnb-presidio.vercel.app/.
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and pull requests.
